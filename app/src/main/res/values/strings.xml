@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Relative SIAIR</string>
+    <string-array name="arr_nama">
+        <item>Mia Divia</item>
+        <item>Selena Gomez</item>
+        <item>Hailey Bieber</item>
+    </string-array>
 </resources>
